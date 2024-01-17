@@ -1,0 +1,16 @@
+﻿  game.cpp
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(16,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(16,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(16,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(16,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(17,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(17,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(17,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(17,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(18,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(18,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(18,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P3\game.cpp(18,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  template.cpp
+  Generating Code...
+  tmpl_2019-08.vcxproj -> D:\Game Development\Projects\C++\Breda\Breda_Course_P3\tmpl_2019-08_x64_debug.exe

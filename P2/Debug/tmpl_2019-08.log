@@ -1,0 +1,6 @@
+﻿  game.cpp
+D:\Game Development\Projects\C++\Breda\Breda_Course_P2\game.cpp(45,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P2\game.cpp(45,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P2\game.cpp(45,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Game Development\Projects\C++\Breda\Breda_Course_P2\game.cpp(45,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  tmpl_2019-08.vcxproj -> D:\Game Development\Projects\C++\Breda\Breda_Course_P2\tmpl_2019-08_x64_debug.exe
